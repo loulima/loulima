@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Lou 👩‍💻</h1>
+<h1 align="center"> Hi 👋, I'm Lou 👩‍💻</h1>
 
-- 🔭 I’m currently studying in the 007 generation of [@Laboratória](https://www.laboratoria.la/br)
-
-- 🌱 I’m learning the basis of front end development: **Html, Css, Javascript and Frameworks**
-
+<ul>
+<li align="left"> 🔭 I’m currently studying in the 007 generation of [@Laboratória](https://www.laboratoria.la/br) </li>
+<li align="left"> 🌱 I’m learning the basis of front end development: **Html, Css, Javascript and Frameworks** </li>
+</ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/louizalima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="louizalima" height="30" width="40" /></a>
