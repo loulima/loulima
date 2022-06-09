@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋, I'm Lou 👩‍💻</h1>
 
 <ul>
-<li align="left"> 🔭 I’m currently studying in the 007 generation of @Laboratória </li>
+<li align="left" > 🔭 I’m currently studying in the 007 generation of @Laboratória </li>
 <li align="left"> 🌱 I’m learning the basis of front end development: **Html, Css, Javascript and Frameworks** </li>
 </ul>
 <h3 align="left">Connect with me:</h3>
