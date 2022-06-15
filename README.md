@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I'm Lou 👩‍💻</h1>
+<h2 > Hi 👋 I'm Lou 👩‍💻</h1>
 
 <ul>
 <li align="left" > 🔭 I’m currently studying in the 007 generation of @Laboratória </li>
