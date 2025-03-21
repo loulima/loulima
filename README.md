@@ -11,6 +11,9 @@ Sou desenvolvedora de software com mais de 2 anos de estrada. Hoje atuo no front
 - **Infra e DevOps:** Docker, Vercel, monitoramento e observabilidade
 - **Outros:** Git, testes, boas práticas de código
 
+## ⏱ Minhas estatísticas de codificação (WakaTime)
+
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=loulima&layout=compact&theme=radical)
 
 
 ## 📫 Vamos trocar ideia?
